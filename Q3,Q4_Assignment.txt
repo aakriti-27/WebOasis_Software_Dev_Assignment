@@ -1,0 +1,22 @@
+﻿Where do you see the future of technology to be and how do you envision yourself in that future context?
+
+
+Technology has undoubtedly evolved in the last few years. Unlike others, there has been exponential growth in this sector. There are a lot of noteworthy innovations and trends that will change the current scenario. Just to name a few, there will be practical applications of AI at a higher level, we'll see robots becoming a part of our daily life, almost all the companies will be transitioning to cloud-based services, and many more.
+Assessing the current pandemic scenario, we saw a huge shift from offline to online mode in almost every department. All this is increasing the use of new technology platforms and thus also creating development opportunities at a high rate.
+As a software developer enthusiast, there will be a lot of opportunities for me in this field. Constant competition and advancements will help me grow in this journey. I hope I make a good contribution through my creative ideas and work in this field.
+
+
+What is a problem you have observed and how would you attempt to solve it with tech?
+
+
+A problem that I have recently observed is that the interaction between students and student-teacher in the college has lessened to a great extent because of the virtual model. Somewhere or the other it’s affecting their growth. Back when teaching was in offline mode, the students who went to college would get a lot of exposure. Students used to meet and interact with other students of their courses as well as people from other courses. This helped them know about a lot of new things in every department. But nowadays, many of them interact with a few selected students and thus have limited exposure. Events are held in different departments but sometimes due to lack of publicity many students of other courses who might be interested in it, do not know about it.
+
+
+To solve this problem, we can make a networking platform. The college authorities will administer it. It will be a platform to connect teachers, students, and alumni from different courses. It will have the following features - 
+* A login option using their unique college ids to ensure authorized users only have the access.
+* There will be a chatbox through which students, teachers, alumni can connect individually or in a group.
+* A check for slang words/inappropriate messages will be put on the chatbox to ensure that the decorum is maintained.
+* There will be a section where students can upload their achievements with proof. This will encourage others and also they will know whom to approach if they are aiming for the same.
+* There will be a request box where alumni, college departments, and teachers can drop in a request if they want to conduct an event that will be open for all. 
+* Events will also be promoted on the platform. Once the request is approved, the event will be up for promotion.
+* There will be a section where weekly events such as tech games, quizzes, etc. will be held. All of them will be played either in a pair or in a group. All those who register for that event will be randomly grouped. This will surely help to increase interaction among students.

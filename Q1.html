@@ -1,0 +1,53 @@
+<!-- HTML file for question 1 -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.search_btn {
+  background-color: DodgerBlue; 
+  border: none; 
+  color: white; 
+  padding: 8px 8px;
+  margin : 0 auto;
+  font-size: 10px; 
+  cursor: pointer; 
+}
+
+body {
+  background-color: azure;
+}
+
+.search_btn:hover {
+  background-color: RoyalBlue;
+}
+
+h1{
+	text-align:center;
+	color:DarkBlue;
+}
+
+#div_search,#div_result{
+	 position: relative;
+	 margin : auto;
+	 text-align : center;
+}
+</style>
+<script src='js_fileQ1.js'></script>
+<link rel='stylesheet' href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<form id="form1">
+	 <h1>-- WISH n SHOP --</h1><br><br>
+	 <div id="div_search">
+		 <input id='search' type='text' align="middle" placeholder='Search' required>
+		 <button type='button' class='search_btn' onclick=product_search();><i class="fa fa-search"></i></button><br>
+	 </div>
+	 <div id="div_result" >
+		<h3 id="heading" style="display : None;">Results matching your search - </h3>
+		<div id="div_products"></div>
+	 </div>
+</form>
+</body>
+</html>
+
